@@ -7,3 +7,5 @@ Practica 2 - Entorno de Desarrollos
 Soy Sandra y modifico el fichero.
 
 He eliminado tabla de equipo.
+ 
+ -N: Subo archivos modificados por Sandra
